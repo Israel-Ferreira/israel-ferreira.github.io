@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Bem vindo ao blog"
+date:   2024-08-31 15:15:00 -0300
+categories: blog
+---
+
+
+Montar e manter um blog de tecnologia não é uma coisa tão banal assim, pois para compartilhar o conhecimento e nossas experiências é necessário dá muito cara a tapa, como achar o melhor jeito de expressar para que as pessoas entendam o que você está falando.
+
+No meu caso, a motivação para criar esse blog seria ajudar desenvolvedores e arquitetos de software em softwares especificos sem muitos posts da Internet, como Google Cloud App Integration, que por ser recente não tem muito conteúdo de terceiros.
+
+
+Espero que vocês gostem do blog, e se necessário mandem feedbacks por email e pelo linkedin.
+
+Muito Obrigado!!
